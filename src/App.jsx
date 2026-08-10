@@ -360,7 +360,7 @@ function App() {
 
                 <a
                   href="/my-live-portfolio/CV_Akshada.pdf"
-                  download="Akshada_CV.pdf"
+                  download="CV_Akshada.pdf"
                   className="secondary-button"
                 >
                   <FaDownload />
