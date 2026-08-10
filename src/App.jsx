@@ -359,7 +359,7 @@ function App() {
                 </button>
 
                 <a
-                  href="/akshada-portfolio/public/Akshada_CV_Ats.pdf"
+                  href="/CV_Akshada.pdf"
                   download="Akshada_CV.pdf"
                   className="secondary-button"
                 >
