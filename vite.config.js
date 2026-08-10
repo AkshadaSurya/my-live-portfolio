@@ -6,7 +6,3 @@ export default defineConfig({
     // Automatically uses the repository name for production builds, and root for local development
     base: '/my-live-portfolio/',
  })
-
-
-
-
