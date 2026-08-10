@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
  
 export default defineConfig({
   plugins: [react()],
-  base: '/akshada-portfolio/', 
+  base: '/my-live-portfolio/', 
 })
 
