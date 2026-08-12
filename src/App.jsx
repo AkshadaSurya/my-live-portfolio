@@ -20,7 +20,7 @@ import {
 
 import AkshadaImage from "./assets/Akshada-Home.jpg";
 import AkshadaAboutMeImage from "./assets/Akshada-About.jpg";
-import myCv from './assets/Akshada_CV_EN.pdf';
+import myCvFile from './assets/CV_EN.pdf';
 import "./index.css";
 
 const contentLibrary = {
@@ -360,8 +360,8 @@ function App() {
                 </button>
 
                 <a
-                 href={myCv}
-                  download="Akshada_CV_EN.pdf"
+                 href={myCvFile}
+                 download="CV_EN.pdf"
                   className="secondary-button"
                 >
                   <FaDownload />
