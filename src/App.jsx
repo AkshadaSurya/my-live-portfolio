@@ -359,8 +359,8 @@ function App() {
                 </button>
 
                 <a
-                  href="/my-live-portfolio/CV_Akshada.pdf"
-                  download="CV_Akshada.pdf"
+                  href="/my-live-portfolio/Akshada_CV_EN.pdf"
+                  download="Akshada_CV_EN.pdf"
                   className="secondary-button"
                 >
                   <FaDownload />
