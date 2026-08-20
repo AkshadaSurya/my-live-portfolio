@@ -359,7 +359,7 @@ function App() {
                 </button>
 
                 <a
-                 href={`${import.meta.env.BASE_URL}CV_EN.pdf`}
+                 href="cv_en.pdf"
                  download="Akshada_Suryawanshi_CV.pdf"
                   className="secondary-button"
                 >
