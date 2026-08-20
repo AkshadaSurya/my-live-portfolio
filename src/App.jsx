@@ -359,8 +359,8 @@ function App() {
                 </button>
 
                 <a
-                 href={`${import.meta.env.BASE_URL}/CV_EN.pdf`}
-                 download="CV_EN.pdf"
+                 href={`${import.meta.env.BASE_URL}CV_EN.pdf`}
+                 download="Akshada_Suryawanshi_CV.pdf"
                   className="secondary-button"
                 >
                   <FaDownload />
